@@ -1,1 +1,1 @@
-Worker: npm run test
+web: node app.js
